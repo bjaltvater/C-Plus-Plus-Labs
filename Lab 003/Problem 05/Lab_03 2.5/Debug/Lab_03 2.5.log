@@ -1,0 +1,20 @@
+﻿Build started 2/5/2013 2:02:36 PM.
+     1>Project "P:\COSC 120\Labs\Lab 003\Problem 05\Lab_03 2.5\Lab_03 2.5.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab_03 2.5.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab_03 2.5.unsuccessfulbuild".
+         Touching "Debug\Lab_03 2.5.lastbuildstate".
+     1>Done Building Project "P:\COSC 120\Labs\Lab 003\Problem 05\Lab_03 2.5\Lab_03 2.5.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
